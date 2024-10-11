@@ -8,4 +8,7 @@ To-Do List Website is a web application that allows users to manage tasks by add
 <ul>-Ensures usability on various devices.</ul>
 
 ## Screenshot
-<ul><img src="preview/list.png"></ul>
+<ul><img src="preview/Screenshot from 2024-10-11 23-03-39.png"></ul>
+<ul><img src="preview/Screenshot from 2024-10-11 23-04-26.png"></ul>
+<ul><img src="preview/Screenshot from 2024-10-11 23-05-07.png"></ul>
+<ul><img src="preview/Screenshot from 2024-10-11 23-05-14.png"></ul>
